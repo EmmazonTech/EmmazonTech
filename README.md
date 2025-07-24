@@ -14,6 +14,13 @@
 - 🧑‍💻 Striving to make systems safer and more robust
 
 ---
+### 👨‍💻 My Rules
+
+- 🛡️ No System is Safe
+- 🔬 Aim for the impossible
+- 🧑‍💻 Have fun in cyber and meat space
+
+---
 
 ### 🛠️ Favourite Tech Stack
 
