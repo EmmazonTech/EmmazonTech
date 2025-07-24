@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Emmazon</h1>
 <h3 align="center">Aspiring Kernel Security Engineer, Penetration Tester & Red Teamer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Person Hacking" width="300"/>
-</p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 ### 👨‍💻 About Me
