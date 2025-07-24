@@ -1,7 +1,7 @@
 <!-- Profile README for EmmazonTech -->
 
 <h1 align="center">Hi 👋, I'm Emmazon</h1>
-<h3 align="center">Aspiring Kernel Security Engineer, Penetration Tester & Red Teamer, Grey Hat Hacker</h3>
+<h3 align="center">Aspiring Kernel Security Engineer, Red Teamer, A Passionate Hacker</h3>
 <p align="center">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
