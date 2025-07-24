@@ -1,44 +1,42 @@
 <!-- Profile README for EmmazonTech -->
 
 <h1 align="center">Hi 👋, I'm Emmazon</h1>
-<h3 align="center">Aspiring Kernel Security Engineer, Penetration Tester & Red Teamer</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">Aspiring Kernel Security Engineer, Penetration Tester & Red Teamer, Grey Hat Hacker</h3>
+<p align="center">
+  <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🛡️ Passionate about kernel security, penetration testing, and red teaming
+- 🛡️ Passionate about kernel security, penetration testing, red teaming, and Advanced Persistent Threats (APT)
 - 🔬 Always learning and exploring new areas in cybersecurity and software engineering
 - 🧑‍💻 Striving to make systems safer and more robust
 
 ---
-### 👨‍💻 My Rules
 
-- 🛡️ No System is Safe
+## 🧑‍💻 My Rules
+
+- 🛡️ No system is safe
 - 🔬 Aim for the impossible
 - 🧑‍💻 Have fun in cyber and meat space
 
 ---
 
-### 🛠️ Favourite Tech Stack
+## 🛠️ Favourite Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,python,rust,git,c,cpp,linux" />
 </p>
-- C#
-- Python
-- Rust
-- Git
-- C
-- C++
-- Linux
-- Unix
-- Kali Linux
-- Parrot OS
+
+- **Languages/Tools:**  
+  C#, Python, Rust, Git, C, C++, Linux, Unix  
+  Kali Linux, Parrot OS
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmazonTech&show_icons=true&theme=tokyonight&hide_border=true" alt="EmmazonTech stats" />
@@ -50,7 +48,7 @@
 
 ---
 
-### 🧠 Currently Exploring
+## 🧠 Currently Exploring
 
 - 🛡️ Kernel security techniques and exploit development
 - 🔍 Advanced penetration testing methods
@@ -58,7 +56,7 @@
 
 ---
 
-### 🔗 Let's Connect!
+## 🔗 Let's Connect!
 
 <p align="left">
   <a href="https://github.com/EmmazonTech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -67,9 +65,9 @@
 
 ---
 
-### 💬 Fun Facts
+## 💬 Fun Facts
 
-- 🧩 I love diving deep into OS internals and security
+- 🧩 Love diving deep into OS internals and security
 - 🔥 Always experimenting with new programming languages and tools
 - 👀 Motto: “Never stop learning!”
 
